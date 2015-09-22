@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Lychee</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>adamschmidt</authors>
     <owners>adamschmidt</owners>
     <projectUrl>https://github.com/lychee-net/lychee.git</projectUrl>

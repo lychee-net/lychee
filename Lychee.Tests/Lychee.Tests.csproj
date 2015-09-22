@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="PreconditionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AttemptTests.cs" />
     <Compile Include="VerifyTests.cs" />
   </ItemGroup>
   <ItemGroup>
