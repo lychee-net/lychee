@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Lychee</id>
+    <version>1.0.0</version>
+    <authors>adamschmidt</authors>
+    <owners>adamschmidt</owners>
+    <projectUrl>https://github.com/lychee-net/lychee.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Collection of project-agnostic utilities, similar to the Google Guava library</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>guava utility</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\Lychee.dll" target="lib\net40" />
+    <file src="bin\Release\Lychee.pdb" target="lib\net40" />
+  </files>
+</package>
